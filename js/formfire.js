@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
-    authDomain: "XXXXXXXXXXXXXXXXXXXXXX",
-    databaseURL: "XXXXXXXXXXXXXXXXXXXXXX",
-    projectId: "XXXXXXXXXXXXXXXXXXXXXX",
-    storageBucket: "XXXXXXXXXXXXXXXXXXXXXX",
-    messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXX"
+    apiKey: "AIzaSyD5MSUjW53itgSWusvar128MeaPiIToD5w",
+    authDomain: "dscyabatech.firebaseapp.com",
+    databaseURL: "https://dscyabatech.firebaseio.com",
+    projectId: "dscyabatech",
+    storageBucket: "dscyabatech.appspot.com",
+    messagingSenderId: "134194875224"
 };
 firebase.initializeApp(config);
 
